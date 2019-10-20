@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zubeir68/kafka-exp-2#readme",
   "dependencies": {
+    "commander": "^3.0.2",
     "kafkajs": "^1.11.0"
   }
 }
