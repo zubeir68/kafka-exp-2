@@ -17,7 +17,7 @@ const run =  async () => {
     await producer.send({
         topic: 'test',
         messages: [
-            { value: "fuck dude" }
+            { value: "My kafka stream is cooler then yours" }
         ]
     });
     
